@@ -1,0 +1,32 @@
+.heading{
+    text-align: left;
+    width: 100%;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 2px solid yellow;
+}
+.big_img{
+    width: 100%;
+}
+.sta{
+    background-color: blueviolet;
+}
+#Play{
+    bottom: 0;
+    position: static;
+}
+h4{
+    background-color: darkorchid;
+    line-height: 2;
+    border-radius: 10px;
+    border: 2px solid yellow;
+    margin: 0px;
+    color: white;
+}
+.modal-dialog{
+    width: 80%;
+}
